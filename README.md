@@ -7,7 +7,6 @@ Full tutorial with example available at http://jasonwatmore.com/post/2018/10/29/
 Running the Angular 7 Login Tutorial Example Locally
 The tutorial example uses Webpack 4.23 to transpile the TypeScript code and bundle the Angular 7 modules together, and the webpack dev server is used as the local web server, to learn more about using webpack with TypeScript you can check out the webpack docs.
 
-# Install NodeJS and NPM from https://nodejs.org/en/download/.
 # Download or clone the tutorial project source code from 
   https://github.com/cornflourblue/angular-7-registration-login-example
 # Install all required npm packages by running 
